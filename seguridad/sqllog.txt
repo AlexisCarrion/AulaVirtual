@@ -1,0 +1,419 @@
+Date: 10-08-2013 12:15:33 AM - IP: 127.0.0.1 - Código: select asd, - Correto: asd
+Date: 10-08-2013 12:15:48 AM - IP: 127.0.0.1 - Código: hola\'select --, - Correto: hola\''
+Date: 10-08-2013 12:20:29 AM - IP: 127.0.0.1 - Código: asd select, - Correto: asd
+Date: 10-08-2013 12:20:44 AM - IP: 127.0.0.1 - Código: asd \', - Correto: asd \''
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 46
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:00:07 AM - IP: 127.0.0.1 - Código: asdselect, - Correto: asd
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 47
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:00:19 AM - IP: 127.0.0.1 - Código: asdselectdros, - Correto: asddros
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 48
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:01:57 AM - IP: 127.0.0.1 - Código: setiembre, - Correto: iembre
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 49
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:02:19 AM - IP: 127.0.0.1 - Código: insertar, - Correto: ar
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 50
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:18:36 AM - IP: 127.0.0.1 - Código: 0.18, - Correto: 
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 51
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:18:36 AM - IP: 127.0.0.1 - Código: drop, - Correto: 
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 52
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:18:36 AM - IP: 127.0.0.1 - Código: http://www.youtube.com/, - Correto: 
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 53
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:18:36 AM - IP: 127.0.0.1 - Código: Guardar, - Correto: 
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 54
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:18:36 AM - IP: 127.0.0.1 - Código: Sistema, - Correto: 
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 55
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:19:04 AM - IP: 127.0.0.1 - Código: 0.18, - Correto: 
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 56
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:19:04 AM - IP: 127.0.0.1 - Código: gf, - Correto: 
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 57
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:19:04 AM - IP: 127.0.0.1 - Código: http://www.youtube.com/, - Correto: 
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 58
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:19:04 AM - IP: 127.0.0.1 - Código: Guardar, - Correto: 
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 59
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:19:04 AM - IP: 127.0.0.1 - Código: Sistema, - Correto: 
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 60
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:19:30 AM - IP: 127.0.0.1 - Código: select, - Correto: 
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 62
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:22:06 AM - IP: 127.0.0.1 - Código:  delete, - Correto:  
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 63
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+Date: 10-08-2013 01:22:59 AM - IP: 127.0.0.1 - Código:  delete, - Correto:  
+Array
+(
+    [categoria] => abierto
+    [cantidadsql] => 2
+)
+Date: 12-08-2013 10:59:04 AM - IP: 127.0.0.1 - Código: 1--, - Correto: 1
+Array
+(
+    [categoria] => abierto
+    [cantidadsql] => 5
+    [categoriatipo] => list
+)
+Date: 12-08-2013 11:49:57 AM - IP: 127.0.0.1 - Código: categoria--, - Correto: categoria
+Array
+(
+    [idioma] => es
+    [popup] => 1
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+insert into productos (idProducto,Nombre,idCategoria,idSubCategoria,idMarca,puntosBonos,precio,preciofinal,colores,peso,descripcion,fechaCreacion,Estado) values ('X-100','Prueba 1',1,1,,10,40,30,'Negro',0.5,' <p><strong>Descipcion 1.</strong><br>Ejemplo</p>',NOW(),1)
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10,40,30,'Negro',0.5,' <p><strong>Descipcion 1.</strong><br>Ejemplo</p>',NOW(),1' at line 1
+MySQL error code: 1064
+Date: Tuesday 20th of August 2013 02:32:46 AM</textarea>
+    [chatuser] => 3
+    [chatuser_name] => 127.0.0.1
+    [cantidadsql] => 1
+)
+Date: 20-08-2013 02:33:17 AM - IP: 127.0.0.1 - Código:  <p><strong>Descipcion 1.</strong><br>
+          Detalle Descripcion 1 .</p>
+          <p><strong>Descripcion 2.</strong><br>
+            Detalle Descripcion 2.</p>
+          <p><strong>Descipcion 3.</strong><br>
+            Detalle Descripcion 3.</p>
+          <p><strong>Descripcion 4.</strong><br>
+            Detalle Descripcion 4<br>
+            &nbsp;</p>, - Correto:  <p><strong>Descipcion 1.</strong><br>
+          Detalle Descripcion 1 .</p>
+          <p><strong>Descripcion 2.</strong><br>
+            Detalle Descripcion 2.</p>
+          <p><strong>Descipcion 3.</strong><br>
+            Detalle Descripcion 3.</p>
+          <p><strong>Descripcion 4.</strong><br>
+            Detalle Descripcion 4<br>
+            nbsp;</p>
+Array
+(
+    [scategoria] => abierto
+    [categoriatipo] => grid
+    [categoria] => Electronicos
+    [subcategoria] => Camaras
+    [pagina] => 1
+    [cantidadsql] => 3
+    [Orden] =>  order by p.Nombre Desc
+    [poscmb] => 2
+)
+Date: 15-09-2013 03:58:51 AM - IP: 127.0.0.1 - Código:  order by precio Asc, - Correto: precio Asc
+Array
+(
+    [scategoria] => abierto
+    [categoriatipo] => grid
+    [categoria] => Electronicos
+    [subcategoria] => Camaras
+    [pagina] => 1
+    [cantidadsql] => 4
+    [Orden] =>  order by precio Asc
+    [poscmb] => 3
+)
+Date: 15-09-2013 03:58:52 AM - IP: 127.0.0.1 - Código:  order by p.Nombre Asc, - Correto: p.Nombre Asc
+Array
+(
+    [scategoria] => abierto
+    [categoriatipo] => grid
+    [categoria] => Electronicos
+    [subcategoria] => Camaras
+    [pagina] => 1
+    [cantidadsql] => 5
+    [Orden] =>  order by p.Nombre Asc
+    [poscmb] => 1
+)
+Date: 15-09-2013 03:59:09 AM - IP: 127.0.0.1 - Código:  order by p.Nombre Desc, - Correto: p.Nombre Desc
+Array
+(
+    [scategoria] => abierto
+    [categoriatipo] => grid
+    [categoria] => Electronicos
+    [subcategoria] => Camaras
+    [pagina] => 1
+    [cantidadsql] => 6
+    [Orden] =>  order by p.Nombre Desc
+    [poscmb] => 2
+)
+Date: 15-09-2013 03:59:11 AM - IP: 127.0.0.1 - Código:  order by p.Nombre Asc, - Correto: p.Nombre Asc

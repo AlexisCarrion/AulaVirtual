@@ -1,0 +1,199 @@
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 29
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+ 
+IP: 127.0.0.1
+Method: GET
+Value: Admin;
+Script: 
+Time: 
+==================================
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 33
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+ 
+IP: 127.0.0.1
+Method: GET
+Value: Admin;
+Script: 
+Time: 
+==================================
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 36
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+ 
+IP: 127.0.0.1
+Method: GET
+Value: Admin;
+Script: 
+Time: 
+==================================
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 39
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+ 
+IP: 127.0.0.1
+Method: GET
+Value: Admin;
+Script: 
+Time: 1376114002
+==================================
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 42
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+ 
+IP: 127.0.0.1
+Method: GET
+Value: Admin;
+Script: 
+Time: 10-08-2013 00:54:36
+==================================
+Array
+(
+    [user_id] => 1
+    [Administrador] => 1
+    [Cajero] => 1
+    [Vendedor] => 1
+    [NroSerie] => 001
+    [idCaja] => 1
+    [ultimoAcceso] => 2013-8-9 22:00:56
+    [cantidadsql] => 60
+    [mysql_error] => <textarea readonly="readonly" rows="6" cols="60">An error occurred while executing the following query:
+update sistema set IGV='0.18',FACEBOOK='asd \''',TWITTER='https://twitter.com/',YOUTUBE='http://www.youtube.com/'
+
+MySQL error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'https://twitter.com/',YOUTUBE='http://www.youtube.com/'' at line 1
+MySQL error code: 1064
+Date: Saturday 10th of August 2013 12:20:44 AM</textarea>
+    [fb_562280007158313_state] => e1b3c58ca26ff55b1a20d2938560d5a1
+)
+ 
+IP: 127.0.0.1
+Method: GET
+Value: Sistema;
+Script: 
+Time: 10-08-2013 01:20:48
+==================================
+Array
+(
+    [categoria] => abierto
+)
+ 
+IP: 127.0.0.1
+Method: GET
+Value: home;
+Script: 
+Time: 12-08-2013 10:49:14
+==================================
+Array
+(
+    [categoria] => abierto
+    [cantidadsql] => 2
+)
+ 
+IP: 127.0.0.1
+Method: GET
+Value: 1--
+Script: 
+Time: 12-08-2013 10:59:04
+==================================
+Array
+(
+    [categoria] => abierto
+    [cantidadsql] => 3
+    [categoriatipo] => list
+)
+ 
+IP: 127.0.0.1
+Method: GET
+Value: ;
+Script: 
+Time: 12-08-2013 11:49:52
+==================================
+Array
+(
+    [categoria] => abierto
+    [cantidadsql] => 5
+    [categoriatipo] => list
+)
+ 
+IP: 127.0.0.1
+Method: GET
+Value: categoria--
+Script: 
+Time: 12-08-2013 11:49:57
+==================================

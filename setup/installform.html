@@ -1,0 +1,91 @@
+<table style="width: 600px; margin: auto;" cellpadding="0" cellspacing="0">
+  <form action="{currentpage}" method="post">
+    <tr>
+      <td><table width="600" border="1" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><table width="600" border="1" align="center" cellpadding="0" cellspacing="0">
+            <tr></tr>
+            <tr>
+              <td colspan="2" style="text-align: center"><p><strong>Introduzca su información de base de datos para instalar </strong></p></td>
+            </tr>
+            <tr>
+              <td width="321" style="text-align: center"><strong>Mysql:</strong></td>
+              <td width="273" style="text-align: center"><strong><span class="middle">Email Config:</span></strong></td>
+            </tr>
+            <tr>
+              <td bgcolor="#0000FF" style="text-align: center; color: #FFF;"><strong>MySQL Host: (Normal localhost)</strong></td>
+              <td bgcolor="#0000FF" style="text-align: center; color: #FFF;"><strong><span class="middle">EmailHost:</span></strong></td>
+            </tr>
+            <tr>
+              <td style="text-align: center"><strong>
+                <input class="fieldlong" type="text" name="dbhost" value="{host}" />
+              </strong></td>
+              <td style="text-align: center"><strong><span class="middle">
+                <input name="emailhost" type="text" class="fieldlong" value="{EmailHost}" />
+              </span></strong></td>
+            </tr>
+            <tr>
+              <td style="text-align: center; color: #F00;">{installerror} </td>
+              <td style="text-align: center">&nbsp;</td>
+            </tr>
+            <tr>
+              <td bgcolor="#0000FF" style="text-align: center; color: #FFF;"><strong>Mysql Username:</strong></td>
+              <td bgcolor="#0000FF" style="text-align: center; color: #FFF;"><strong><span class="middle">EmailUser:</span></strong></td>
+            </tr>
+            <tr>
+              <td style="text-align: center"><strong>
+                <input name="dbuser" type="text" class="fieldlong" value="{user}" />
+              </strong></td>
+              <td style="text-align: center"><strong><span class="middle">
+                <input name="emailuser" type="text" class="fieldlong" value="{EmailUsername}" />
+              </span></strong></td>
+            </tr>
+            <tr>
+              <td bgcolor="#0000FF" style="text-align: center; color: #FFF;"><strong>Mysql Password:</strong></td>
+              <td bgcolor="#0000FF" style="text-align: center; color: #FFF;"><strong><span class="middle">EmailPass:</span></strong></td>
+            </tr>
+            <tr>
+              <td style="text-align: center"><strong><strong>
+                <input class="fieldlong" type="password" name="dbpass" id="dbpass" value="{pass}"/>
+              </strong></strong></td>
+              <td style="text-align: center"><strong><span class="middle">
+                <strong>
+                <input class="fieldlong" type="password" name="emailpass" id="emailpass" value="{EmailPassword}" />
+                </strong></span></strong></td>
+            </tr>
+            <tr>
+              <td bgcolor="#0000FF" style="text-align: center; color: #FFF;"><strong>MySQL Database: </strong></td>
+              <td bgcolor="#0000FF" style="text-align: center; color: #FFF;"><strong><span class="middle">EmailOwner:</span></strong></td>
+            </tr>
+            <tr>
+              <td style="text-align: center"><strong>
+                <input class="fieldlong" type="text" name="dbname" value="{bd}"/>
+              </strong></td>
+              <td style="text-align: center"><strong><span class="middle">
+                <input name="emailowner" type="text" class="fieldlong" value="{EmailOwner}" />
+              </span></strong></td>
+            </tr>
+            <tr>
+              <td colspan="2" bgcolor="#FF0000" style="text-align: center; color: #FFF; font-size: 24px;"><strong><span class="middle">Opcion Install:</span></strong></td>
+            </tr>
+            <tr>
+              <td colspan="2" bgcolor="#0000FF" style="text-align: center; color: #FFF;"><strong><span class="middle" style="font-size: 24px">
+                <input type="radio" name="radio" id="radio" value="full" />
+                Instalacion full
+  <label for="actualizar">
+    <input name="radio" type="radio" id="radio2" value="actualizar" checked="checked" />
+    Actualizar BD</label></span></strong></td>
+            </tr>
+            </table></td>
+        </tr>
+      </table></td>
+    </tr>
+    
+    <tr>
+      <td class="line"></td>
+    </tr>
+    <tr>
+      <td class="middle"><center><input class="button" type="submit" name="install" value="Install" /></center></td>
+    </tr>
+  </form>
+</table>
